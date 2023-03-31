@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         跳转到申请页面
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       zhitao.mao
 // @match        http://opentunnel.net/v2ray/

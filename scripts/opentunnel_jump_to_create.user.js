@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         创建账号并复制到剪贴板
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  try to take over the world!
 // @author       zhitao.mao
 // @match        http://opentunnel.net/v2ray/server-*
