@@ -6,7 +6,7 @@
 // @author       zhitao.mao
 // @match        http://opentunnel.net/v2ray/server-*
 // @grant        none
-// @updateURL    https://gitee.com/naozeizei/tampermonkey/raw/master/scripts/opentunnel_jump_to_create.user.js
+// @updateURL    https://github.com/maozhitao12450/tampermonkeyScripts/raw/main/scripts/opentunnel_jump_to_create.user.js
 // ==/UserScript==
 
 (function() {
